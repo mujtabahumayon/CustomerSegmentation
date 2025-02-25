@@ -1,5 +1,8 @@
 # Customer Segmentation Using RFM and K-Means
 
+![Project Badge](https://img.shields.io/badge/Status-Completed-green)   
+![ML Badge](https://img.shields.io/badge/Machine%20Learning-Python-orange)
+
 ## 📌 Overview
 This project is part of the **CS663 Term Project: Data Mining** course and focuses on **Customer Segmentation** using **RFM (Recency, Frequency, and Monetary) analysis** and **K-Means clustering**. The goal is to identify customer segments based on their purchasing behavior and derive meaningful insights for business strategies.
 
